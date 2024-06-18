@@ -6,10 +6,10 @@
 
 esse é meu repositório para compartilhamento de projetos pessoais da plataforma [alura](https://cursos.alura.com.br)
 
-*você pode entrar em contato comigo:
+**você pode entrar em contato comigo:*
 
 00001115052329sp@al.educacao.sp.gov.br
 
-![](https://medial.tenor.com/m/AapKRNDpG6CAAAAC/ohno-meme-monkey-onno.gif)
+![](https://media1.tenor.com/m/_hUq1BSUsiMAAAAC/cat-cute.gif)
 
 
