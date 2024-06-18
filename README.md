@@ -1,6 +1,6 @@
 #BEM VINDOS (AS) AO MEU PERFIL
 
-**meu nome e Guilherme Henrique Santos Silva.**
+**meu nome é Guilherme Henrique Santos Silva.**
 
 -estou me desenvolvendo na linguagem javarscipt e markdown.
 
