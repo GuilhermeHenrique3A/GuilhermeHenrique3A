@@ -1,16 +1,15 @@
-## Hi there 👋
+#BEM VINDOS (AS) AO MEU PERFIL
 
-<!--
-**GuilhermeHenrique3A/GuilhermeHenrique3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**meu nome e Guilherme Henrique Santos Silva.**
 
-Here are some ideas to get you started:
+-estou me desenvolvendo na linguagem javarscipt e markdown.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+esse é meu repositório para compartilhamento de projetos pessoais da plataforma [alura](https://cursos.alura.com.br)
+
+*você pode entrar em contato comigo:
+
+00001115052329sp@al.educacao.sp.gov.br
+
+![](https://medial.tenor.com/m/AapKRNDpG6CAAAAC/ohno-meme-monkey-onno.gif)
+
+
